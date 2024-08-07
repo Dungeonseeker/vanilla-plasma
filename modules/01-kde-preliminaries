@@ -1,0 +1,9 @@
+name: kdm-preliminaries
+type: apt
+source:
+  packages:
+  - extra-cmake-modules
+  - phonon4qt5
+  - phonon4qt5-backend-vlc
+  - polkit-kde-agent-1
+  - plasma-wayland-protocols
